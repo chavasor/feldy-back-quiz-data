@@ -1,0 +1,15 @@
+chart,question,answer,percent,n,notes
+relax_attempts,"When you try to relax your back, what happens?",My back stays held,29,51,single_choice
+relax_attempts,"When you try to relax your back, what happens?",I can't tell tense from relaxed,25,51,single_choice
+relax_attempts,"When you try to relax your back, what happens?",It actually relaxes,18,51,single_choice
+relax_attempts,"When you try to relax your back, what happens?",I'm not sure what relaxed feels like,16,51,single_choice
+relax_attempts,"When you try to relax your back, what happens?","I notice I'm holding, and it's uncomfortable",12,51,single_choice
+already_tried,"What treatments have you tried for your back?","Heat, ice, or rest",76,45,multiple_select
+already_tried,"What treatments have you tried for your back?",Pills or topical creams,62,45,multiple_select
+already_tried,"What treatments have you tried for your back?",Stretching or yoga,56,45,multiple_select
+already_tried,"What treatments have you tried for your back?",Massage or physiotherapy,49,45,multiple_select
+already_tried,"What treatments have you tried for your back?",Nothing yet,11,45,multiple_select
+already_tried,"What treatments have you tried for your back?",The Feldenkrais Method,4,45,multiple_select
+summary,"Do you wake up with stiffness or aches?",Yes,86,,callout_stat
+summary,"Does your back fully let go when you try to relax it?",No,82,,callout_stat
+summary,"How do you feel about your body right now?",Frustrated or apprehensive,74,,callout_stat
